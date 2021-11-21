@@ -1,0 +1,10 @@
+.main_info {
+  display: block;
+  position: relative;
+  text-align: center;
+  &_text {
+    font-size: 3vh;
+    line-height: 45px;
+    padding: 5% 5% 5% 5%;
+  }
+}

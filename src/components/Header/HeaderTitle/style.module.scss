@@ -1,0 +1,14 @@
+.header_name {
+  position: absolute;
+  display: block;
+  z-index: -1;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  &_title {
+    font-size: 10vh;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px black;
+  }
+}
