@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/olena_site/static/css/main.f2f36d67.chunk.css",
+    "main.css": "/olena_site/static/css/main.78c8f005.chunk.css",
     "main.js": "/olena_site/static/js/main.fc150da9.chunk.js",
     "main.js.map": "/olena_site/static/js/main.fc150da9.chunk.js.map",
     "runtime-main.js": "/olena_site/static/js/runtime-main.c250f043.js",
@@ -8,7 +8,7 @@
     "static/js/2.554c37be.chunk.js": "/olena_site/static/js/2.554c37be.chunk.js",
     "static/js/2.554c37be.chunk.js.map": "/olena_site/static/js/2.554c37be.chunk.js.map",
     "index.html": "/olena_site/index.html",
-    "static/css/main.f2f36d67.chunk.css.map": "/olena_site/static/css/main.f2f36d67.chunk.css.map",
+    "static/css/main.78c8f005.chunk.css.map": "/olena_site/static/css/main.78c8f005.chunk.css.map",
     "static/js/2.554c37be.chunk.js.LICENSE.txt": "/olena_site/static/js/2.554c37be.chunk.js.LICENSE.txt",
     "static/media/1.webp": "/olena_site/static/media/1.62608f0a.webp",
     "static/media/2.webp": "/olena_site/static/media/2.a273d2c1.webp",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.c250f043.js",
     "static/js/2.554c37be.chunk.js",
-    "static/css/main.f2f36d67.chunk.css",
+    "static/css/main.78c8f005.chunk.css",
     "static/js/main.fc150da9.chunk.js"
   ]
 }
