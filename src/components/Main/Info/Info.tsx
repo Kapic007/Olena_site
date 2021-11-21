@@ -1,5 +1,5 @@
 import { Col } from "react-bootstrap";
-import styles from './style.module.scss'
+import styles from "./style.module.scss";
 
 export const Info = () => {
   return (

@@ -1,1 +1,1 @@
-export { HeaderVideo } from './HeaderVideo'
+export { HeaderVideo } from "./HeaderVideo";

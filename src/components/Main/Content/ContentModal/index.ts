@@ -1,1 +1,1 @@
-export { ContentModal } from './ContentModal'
+export { ContentModal } from "./ContentModal";
