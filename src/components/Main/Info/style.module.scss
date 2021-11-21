@@ -3,8 +3,17 @@
   position: relative;
   text-align: center;
   &_text {
-    font-size: 3vh;
+    font-size: 2.4rem;
     line-height: 45px;
     padding: 5% 5% 5% 5%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main_info {
+    &_text {
+      font-size: 1.8rem;
+      line-height: 35px;
+    }
   }
 }
