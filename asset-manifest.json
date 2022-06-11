@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/olena_site/static/css/main.78c8f005.chunk.css",
-    "main.js": "/olena_site/static/js/main.fc150da9.chunk.js",
-    "main.js.map": "/olena_site/static/js/main.fc150da9.chunk.js.map",
+    "main.js": "/olena_site/static/js/main.e6232a4f.chunk.js",
+    "main.js.map": "/olena_site/static/js/main.e6232a4f.chunk.js.map",
     "runtime-main.js": "/olena_site/static/js/runtime-main.c250f043.js",
     "runtime-main.js.map": "/olena_site/static/js/runtime-main.c250f043.js.map",
-    "static/js/2.554c37be.chunk.js": "/olena_site/static/js/2.554c37be.chunk.js",
-    "static/js/2.554c37be.chunk.js.map": "/olena_site/static/js/2.554c37be.chunk.js.map",
+    "static/js/2.920ccdfa.chunk.js": "/olena_site/static/js/2.920ccdfa.chunk.js",
+    "static/js/2.920ccdfa.chunk.js.map": "/olena_site/static/js/2.920ccdfa.chunk.js.map",
     "index.html": "/olena_site/index.html",
     "static/css/main.78c8f005.chunk.css.map": "/olena_site/static/css/main.78c8f005.chunk.css.map",
-    "static/js/2.554c37be.chunk.js.LICENSE.txt": "/olena_site/static/js/2.554c37be.chunk.js.LICENSE.txt",
+    "static/js/2.920ccdfa.chunk.js.LICENSE.txt": "/olena_site/static/js/2.920ccdfa.chunk.js.LICENSE.txt",
     "static/media/1.webp": "/olena_site/static/media/1.62608f0a.webp",
     "static/media/2.webp": "/olena_site/static/media/2.a273d2c1.webp",
     "static/media/3.webp": "/olena_site/static/media/3.c80054cc.webp",
@@ -18,6 +18,7 @@
     "static/media/Pirates.webp": "/olena_site/static/media/Pirates.9268113a.webp",
     "static/media/Portret.webp": "/olena_site/static/media/Portret.fbda4fa2.webp",
     "static/media/Versailles.webp": "/olena_site/static/media/Versailles.e01cfe43.webp",
+    "static/media/Zheng-Yi-Sao.webp": "/olena_site/static/media/Zheng-Yi-Sao.d3f31452.webp",
     "static/media/basketball.webp": "/olena_site/static/media/basketball.bec82cfd.webp",
     "static/media/basmala.webp": "/olena_site/static/media/basmala.f46b6351.webp",
     "static/media/beach-girls.webp": "/olena_site/static/media/beach-girls.9ffc65d7.webp",
@@ -47,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c250f043.js",
-    "static/js/2.554c37be.chunk.js",
+    "static/js/2.920ccdfa.chunk.js",
     "static/css/main.78c8f005.chunk.css",
-    "static/js/main.fc150da9.chunk.js"
+    "static/js/main.e6232a4f.chunk.js"
   ]
 }
