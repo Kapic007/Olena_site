@@ -254,4 +254,12 @@ export const works = [
       full: require("../assets/img/full/war-women.webp").default,
     },
   },
+  {
+    title: "Zheng Yi Sao",
+    info: "For this 2D character were developed: a number of emotions; character's line of action; storytelling; model for further development as a 3D character",
+    poster: {
+      normal: require("../assets/img/normal/Zheng-Yi-Sao.webp").default,
+      full: require("../assets/img/full/Zheng-Yi-Sao.webp").default,
+    },
+  },
 ];
